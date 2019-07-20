@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Default</key>
+			<string></string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Description</key>
+			<string></string>
+			<key>Name</key>
+			<string></string>
+			<key>Required</key>
+			<true/>
+			<key>Identifier</key>
+			<string>productName</string>
+		</dict>
+	</array>
+	<key>Description</key>
+	<string>Usecase Structure</string>
+	<key>Summary</key>
+	<string>Usecase Structure</string>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>Name</key>
+	<string>Usecase</string>
+	<key>MainTemplateFile</key>
+	<string>___FILENAME___</string>
+	<key>DefaultCompletionName</key>
+	<string>File</string>
+	<key>SortOrder</key>
+	<integer>1</integer>
+</dict>
+</plist>
